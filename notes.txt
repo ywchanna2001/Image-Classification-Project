@@ -1,0 +1,1 @@
+For detect unrealistic features of images -> Openai CLIP
